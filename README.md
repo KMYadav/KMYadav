@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KMYadav
+- 👋 Hi, I’m @Krishnmohan Yadav
 - Senior Consultant at Capgemini | ISTQB Certified | Functional | Automation | Mainframe | Performance Tester
 - 📫 Reach me on - kmyadav183@gmail.com
 
